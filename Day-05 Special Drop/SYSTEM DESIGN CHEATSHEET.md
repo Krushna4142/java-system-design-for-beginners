@@ -35,6 +35,9 @@
 ---
 
 ## 1️⃣ What is System Design?
+📷 Image: 
+
+![system-design-basics](/Day-01/system-design-basics.png )
 
 ### 🧠 One-Line Definition
 
@@ -44,13 +47,13 @@ System Design is the process of **structuring software components** to meet **sc
 
 > “System design focuses on how components interact under real-world load.”
 
-## <img src="./Day-01/system-design-basics.png" alt="Basic System Design Diagram" width="650"/>
+
 
 ## 2️⃣ Client–Server Architecture
 
 📷 Image:  
-![Client Server Architecture](Day-02\client-server-architecture.jpg)
-<img src="./Day-02\client-server-architecture">
+![Client Server Architecture](/Day-02/client-server-architecture.jpg)
+
 
 ### 🧠 One-Line Definition
 
@@ -78,7 +81,7 @@ Client sends requests, server processes them and sends responses.
 ## 3️⃣ Web Architecture (Browser → Server → Database)
 
 📷 Image:  
-![Web Architecture](./assets/day05/web-architecture.png)
+![Web Architecture](/Day-03/monolith-layered-architecture.png)
 
 ### 🧠 One-Line Definition
 
@@ -113,7 +116,7 @@ Browser → API → Logic → Database → Response
 ## 4️⃣ HTTP Request–Response Cycle
 
 📷 Image:  
-![HTTP Cycle](./assets/day05/http-cycle.png)
+![HTTP Cycle](/Day-04/rest-api-request-flow.png)
 
 ### 🧠 One-Line Definition
 

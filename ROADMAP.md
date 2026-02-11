@@ -331,15 +331,6 @@ We **rotate high-value content types** 👇
 
 ---
 
-## 🧠 EXTRA IDEAS (Optional but OP)
-
-- ⭐ GitHub Discussions: _“Explain in your own words”_
-- 📌 Pinned diagrams
-- 🧪 Mini design exercises (no code)
-- 📊 Learning checklist per day
-
----
-
 ## 🔥 Why This Repo Stands Out
 
 ✔ Consistent structure  
