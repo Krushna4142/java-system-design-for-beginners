@@ -202,22 +202,22 @@ Multiple instances behind load balancer.
 
 ## 🖼️ System Design Diagram
 
-markdown
-Copy code
-┌──────────────┐
-User ─────────► │ Load Balancer│
-└──────┬───────┘
-│
-┌──────────────┐
-│ URL Service │
-└──────┬───────┘
-│
-┌─────────┐
-│Database │
-└─────────┘
+markdown<br>
+Copy code<br>
+┌──────────────┐<br>
+User ─────────► │ Load Balancer│<br>
+└──────┬───────┘<br>
+│<br>
+┌──────────────┐<br>
+│ URL Service │<br>
+└──────┬───────┘<br>
+│<br>
+┌─────────┐<br>
+│Database │<br>
+└─────────┘<br>
 
 yaml
-Copy code
+
 
 ---
 
