@@ -1,7 +1,7 @@
 # ⚖️ Day 08 – Load Balancer (Conceptual)
 
 <p align="center">
-  <img src="./load-balancer-concept.png" alt="Load Balancer Concept" width="700"/>
+  <img src="load-balancer-concept-day08.png" alt="Load Balancer Concept" width="700"/>
 </p>
 
 <p align="center">
