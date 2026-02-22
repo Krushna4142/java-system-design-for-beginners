@@ -94,21 +94,21 @@ By the end of this journey, the learner moves from:
 ## 🗂️ Repository Structure
 
 java-system-design-for-beginners/<br>
-├── [Day-01-What-is-System-Design](./Day-01-README.md)<br>
-├── [Day-02-Client-Server-Architecture](./Day-02-README.md)<br>
-├── [Day-03-Monolith-vs-Layered](./Day-03-README.md)<br>
-├── [Day-04-REST-API-Request-Flow](./Day-04-README.md)<br>
-├── [Day-05-SQL-vs-NoSQL](./Day-05-README.md)<br>
-├── [Day-06-Scalability-Basics](./Day-06-README.md)<br>
-├── [Day-07-Caching](./Day-07-README.md)<br>
-├── [Day-08-Load-Balancer](./Day-08-README.md)<br>
-├── [Day-09-URL-Shortener-Design](./Day-09-README.md)<br>
-├── [Day-10-Java-in-Real-World-Systems](./Day-10-README.md)<br>
+├── [Day-01-What-is-System-Design](./Day-01/README.md)<br>
+├── [Day-02-Client-Server-Architecture](./Day-02/README.md)<br>
+├── [Day-03-Monolith-vs-Layered](./Day-03/README.md)<br>
+├── [Day-04-REST-API-Request-Flow](./Day/04-README.md)<br>
+├── [Day-05-SQL-vs-NoSQL](./Day-05/README.md)<br>
+├── [Day-06-Scalability-Basics](./Day-06/README.md)<br>
+├── [Day-07-Caching](./Day-07/README.md)<br>
+├── [Day-08-Load-Balancer](./Day-08/README.md)<br>
+├── [Day-09-URL-Shortener-Design](./Day-09/README.md)<br>
+├── [Day-10-Java-in-Real-World-Systems](./Day-10/README.md)<br>
 │<br>
-├── [SYSTEM-DESIGN-CHEATSHEET.md](./Day-05-Special-Drop\SYSTEM-DESIGN-CHEATSHEET.md)<br>
-├── [INTERVIEW-SYSTEM-DESIGN-SECRETS.md](Day-08-Special-Drop\INTERVIEW-SYSTEM-DESIGN-SECRETS.md)<br>
-├── [PROGRESS.md](Day-10-Power-Drop\PROGRESS.md)<br>
-└── [BADGES.md](Day-10-Power-Drop\BADGES.md)<br>
+├── [SYSTEM-DESIGN-CHEATSHEET.md](./Day-05/Special-Drop\SYSTEM-DESIGN-CHEATSHEET.md)<br>
+├── [INTERVIEW-SYSTEM-DESIGN-SECRETS.md](Day-08/Special-Drop\INTERVIEW-SYSTEM-DESIGN-SECRETS.md)<br>
+├── [PROGRESS.md](Day-10/Power-Drop\PROGRESS.md)<br>
+└── [BADGES.md](Day-10/Power-Drop\BADGES.md)<br>
 
 Each day contains:
 
@@ -242,11 +242,11 @@ LLD discussions
 ## ⚡ Quick Revision Map
 
 If you have only 30 minutes:<br>
-Day 02 → [Client–Server](./Day-02-README.md)<br>
-Day 04 → [Request Flow](./Day-04-README.md)<br>
-Day 05 → [SQL vs NoSQL](./Day-05-README.md)<br>
-Day 07 → [Caching](./Day-07-README.md)<br>
-Day 09 → [URL Shortener](./Day-09-README.md)<br>
+Day 02 → [Client–Server](./Day-02/README.md)<br>
+Day 04 → [Request Flow](./Day-04/README.md)<br>
+Day 05 → [SQL vs NoSQL](./Day-05/README.md)<br>
+Day 07 → [Caching](./Day-07/README.md)<br>
+Day 09 → [URL Shortener](./Day-09/README.md)<br>
 You are interview-ready at beginner level.
 
 ---
@@ -265,8 +265,8 @@ Explain scalability without buzzwords
 
 Position yourself as a Java backend beginner with system knowledge
 
-For transformation details → [PROGRESS.md](Day-10-Power-Drop\PROGRESS.md)<br>
-For achievements → [BADGES.md](Day-10-Power-Drop\BADGES.md)
+For transformation details → [PROGRESS.md](Day-10/Power-Drop\PROGRESS.md)<br>
+For achievements → [BADGES.md](Day-10/Power-Drop\BADGES.md)
 
 ## 🛣️ Future Roadmap
 
@@ -356,4 +356,5 @@ Built for clarity.
 Built for real interviews.
 
 </div>
+
 
